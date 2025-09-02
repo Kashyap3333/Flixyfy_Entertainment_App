@@ -7,9 +7,12 @@ It includes both **Low Fidelity** and **High Fidelity** wireframes, along with a
 
 ## 📌 Overview
 The Event Management System is designed to simplify event creation, registration, and management.  
+
 The wireframes and prototype showcase the UI/UX flow, from basic structure to polished design.
 
 ---
+
+
 
 ## 🎨 Wireframes & Prototype
 
@@ -54,11 +57,9 @@ The wireframes and prototype showcase the UI/UX flow, from basic structure to po
 3. Use the prototype to experience the interactive journey.
 
 ---
+<img width="1459" height="815" alt="Screenshot 2025-09-02 233348" src="https://github.com/user-attachments/assets/6b0d5852-c904-48df-ab94-a61b5bb42d5e" />
+<img width="1451" height="818" alt="Screenshot 2025-09-02 233417" src="https://github.com/user-attachments/assets/239d5de3-fe4a-4395-a19a-d47c431ff39f" />
 
-## 👨‍💻 Contributors
-- **Your Name** – UI/UX Designer & Developer
-
----
 
 ## 📜 License
 This project is for educational and demonstration purposes only.
